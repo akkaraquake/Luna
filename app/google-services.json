@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "160778298961",
+    "firebase_url": "https://luna-f650c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "luna-f650c",
+    "storage_bucket": "luna-f650c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160778298961:android:57c8890536fe96a0583a70",
+        "android_client_info": {
+          "package_name": "com.example.luna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaA_FbwS1zjEI_ePMcSJ3uMs7zkIgQGdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
